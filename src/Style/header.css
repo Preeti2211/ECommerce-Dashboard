@@ -1,0 +1,33 @@
+.navigationUl{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:  1px whitesmoke;
+    
+}
+.navigationUl li{
+    margin:0px 20px
+
+}
+.navigationUl li a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+    font-weight: 500;
+}
+.mobile-navigationUl{
+    list-style-type: none;
+    
+    align-items: center;
+    justify-content: center;
+}
+.mobile-navigationUl li{
+    margin:0px 20px
+
+}
+.mobile-navigationUl li a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
